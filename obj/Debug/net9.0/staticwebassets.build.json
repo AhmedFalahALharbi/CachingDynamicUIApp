@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "BDPwXFeWGU6FyQRSPhV1GGpmWKAXZAnMtPDn4RtecBo=",
+  "Source": "CachingDynamicUIApp",
+  "BasePath": "_content/CachingDynamicUIApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CachingDynamicUIApp\\wwwroot",
+      "Source": "CachingDynamicUIApp",
+      "ContentRoot": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\",
+      "BasePath": "_content/CachingDynamicUIApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\d8dyhn88sk-dqk33634f2.gz",
+      "SourceId": "CachingDynamicUIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CachingDynamicUIApp",
+      "RelativePath": "js/app#[.{fingerprint=dqk33634f2}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\js\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zcwtpu5y1l",
+      "Integrity": "Ewo6JhJA36sQQhJewf6C7bYYHkn9czTsunYJf9nEIuY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\gbq3jzzslp-xrbaicqxa4.gz",
+      "SourceId": "CachingDynamicUIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CachingDynamicUIApp",
+      "RelativePath": "CSS/styles#[.{fingerprint=xrbaicqxa4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\CSS\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p1e83hoxru",
+      "Integrity": "HYB6BIwLFIgFAET4qN4pDbAH/Jhe0ZjicCkrBCAeJ3U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\CSS\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\hl75g3sqke-1818eb79nd.gz",
+      "SourceId": "CachingDynamicUIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CachingDynamicUIApp",
+      "RelativePath": "index#[.{fingerprint=1818eb79nd}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cuv4gglmbw",
+      "Integrity": "zGX3VhyvZkzLj/PRWFFRT1Xp87xSbC8xyfOu57WhELw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\CSS\\styles.css",
+      "SourceId": "CachingDynamicUIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\",
+      "BasePath": "_content/CachingDynamicUIApp",
+      "RelativePath": "CSS/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xrbaicqxa4",
+      "Integrity": "48NTOY6PkmCOpnuB0AcAEyAvxBclHBdIes4i8CsM7SI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\index.html",
+      "SourceId": "CachingDynamicUIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\",
+      "BasePath": "_content/CachingDynamicUIApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1818eb79nd",
+      "Integrity": "z70p+QdAGpiCK22aYBKhdEy67RXYrOSXocXNRodkZd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\js\\app.js",
+      "SourceId": "CachingDynamicUIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\",
+      "BasePath": "_content/CachingDynamicUIApp",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dqk33634f2",
+      "Integrity": "S4mD9R68YSXaJ0S49Ij9Vq62NmtZS+SfIdDNVNuLomk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CSS/styles.css",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\gbq3jzzslp-xrbaicqxa4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001293661061"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HYB6BIwLFIgFAET4qN4pDbAH/Jhe0ZjicCkrBCAeJ3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"48NTOY6PkmCOpnuB0AcAEyAvxBclHBdIes4i8CsM7SI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-48NTOY6PkmCOpnuB0AcAEyAvxBclHBdIes4i8CsM7SI="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.css",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\CSS\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"48NTOY6PkmCOpnuB0AcAEyAvxBclHBdIes4i8CsM7SI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-48NTOY6PkmCOpnuB0AcAEyAvxBclHBdIes4i8CsM7SI="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.css.gz",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\gbq3jzzslp-xrbaicqxa4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HYB6BIwLFIgFAET4qN4pDbAH/Jhe0ZjicCkrBCAeJ3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HYB6BIwLFIgFAET4qN4pDbAH/Jhe0ZjicCkrBCAeJ3U="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.xrbaicqxa4.css",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\gbq3jzzslp-xrbaicqxa4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001293661061"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HYB6BIwLFIgFAET4qN4pDbAH/Jhe0ZjicCkrBCAeJ3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"48NTOY6PkmCOpnuB0AcAEyAvxBclHBdIes4i8CsM7SI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrbaicqxa4"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-48NTOY6PkmCOpnuB0AcAEyAvxBclHBdIes4i8CsM7SI="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.xrbaicqxa4.css",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\CSS\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"48NTOY6PkmCOpnuB0AcAEyAvxBclHBdIes4i8CsM7SI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrbaicqxa4"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-48NTOY6PkmCOpnuB0AcAEyAvxBclHBdIes4i8CsM7SI="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.xrbaicqxa4.css.gz",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\gbq3jzzslp-xrbaicqxa4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HYB6BIwLFIgFAET4qN4pDbAH/Jhe0ZjicCkrBCAeJ3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrbaicqxa4"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HYB6BIwLFIgFAET4qN4pDbAH/Jhe0ZjicCkrBCAeJ3U="
+        }
+      ]
+    },
+    {
+      "Route": "index.1818eb79nd.html",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\hl75g3sqke-1818eb79nd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001845018450"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGX3VhyvZkzLj/PRWFFRT1Xp87xSbC8xyfOu57WhELw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z70p+QdAGpiCK22aYBKhdEy67RXYrOSXocXNRodkZd4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1818eb79nd"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z70p+QdAGpiCK22aYBKhdEy67RXYrOSXocXNRodkZd4="
+        }
+      ]
+    },
+    {
+      "Route": "index.1818eb79nd.html",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z70p+QdAGpiCK22aYBKhdEy67RXYrOSXocXNRodkZd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1818eb79nd"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z70p+QdAGpiCK22aYBKhdEy67RXYrOSXocXNRodkZd4="
+        }
+      ]
+    },
+    {
+      "Route": "index.1818eb79nd.html.gz",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\hl75g3sqke-1818eb79nd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGX3VhyvZkzLj/PRWFFRT1Xp87xSbC8xyfOu57WhELw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1818eb79nd"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGX3VhyvZkzLj/PRWFFRT1Xp87xSbC8xyfOu57WhELw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\hl75g3sqke-1818eb79nd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001845018450"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGX3VhyvZkzLj/PRWFFRT1Xp87xSbC8xyfOu57WhELw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z70p+QdAGpiCK22aYBKhdEy67RXYrOSXocXNRodkZd4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z70p+QdAGpiCK22aYBKhdEy67RXYrOSXocXNRodkZd4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z70p+QdAGpiCK22aYBKhdEy67RXYrOSXocXNRodkZd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z70p+QdAGpiCK22aYBKhdEy67RXYrOSXocXNRodkZd4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\hl75g3sqke-1818eb79nd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGX3VhyvZkzLj/PRWFFRT1Xp87xSbC8xyfOu57WhELw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGX3VhyvZkzLj/PRWFFRT1Xp87xSbC8xyfOu57WhELw="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.dqk33634f2.js",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\d8dyhn88sk-dqk33634f2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000650618087"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1536"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ewo6JhJA36sQQhJewf6C7bYYHkn9czTsunYJf9nEIuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"S4mD9R68YSXaJ0S49Ij9Vq62NmtZS+SfIdDNVNuLomk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dqk33634f2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4mD9R68YSXaJ0S49Ij9Vq62NmtZS+SfIdDNVNuLomk="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.dqk33634f2.js",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S4mD9R68YSXaJ0S49Ij9Vq62NmtZS+SfIdDNVNuLomk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dqk33634f2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4mD9R68YSXaJ0S49Ij9Vq62NmtZS+SfIdDNVNuLomk="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.dqk33634f2.js.gz",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\d8dyhn88sk-dqk33634f2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ewo6JhJA36sQQhJewf6C7bYYHkn9czTsunYJf9nEIuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dqk33634f2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ewo6JhJA36sQQhJewf6C7bYYHkn9czTsunYJf9nEIuY="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\d8dyhn88sk-dqk33634f2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000650618087"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1536"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ewo6JhJA36sQQhJewf6C7bYYHkn9czTsunYJf9nEIuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"S4mD9R68YSXaJ0S49Ij9Vq62NmtZS+SfIdDNVNuLomk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4mD9R68YSXaJ0S49Ij9Vq62NmtZS+SfIdDNVNuLomk="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S4mD9R68YSXaJ0S49Ij9Vq62NmtZS+SfIdDNVNuLomk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4mD9R68YSXaJ0S49Ij9Vq62NmtZS+SfIdDNVNuLomk="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.gz",
+      "AssetFile": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\obj\\Debug\\net9.0\\compressed\\d8dyhn88sk-dqk33634f2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ewo6JhJA36sQQhJewf6C7bYYHkn9czTsunYJf9nEIuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 10:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ewo6JhJA36sQQhJewf6C7bYYHkn9czTsunYJf9nEIuY="
+        }
+      ]
+    }
+  ]
+}

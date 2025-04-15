@@ -1,0 +1,6 @@
+@CachingDynamicUIApp_HostAddress = http://localhost:5073
+
+GET {{CachingDynamicUIApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

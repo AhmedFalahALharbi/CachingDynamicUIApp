@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\CSS\\styles.css",
+      "PackagePath": "staticwebassets\\CSS\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\W8D3\\CachingDynamicUIApp\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CachingDynamicUIApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CachingDynamicUIApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CachingDynamicUIApp.props",
+      "PackagePath": "build\\CachingDynamicUIApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CachingDynamicUIApp.props",
+      "PackagePath": "buildMultiTargeting\\CachingDynamicUIApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CachingDynamicUIApp.props",
+      "PackagePath": "buildTransitive\\CachingDynamicUIApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
